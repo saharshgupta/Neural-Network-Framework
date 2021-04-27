@@ -12,7 +12,7 @@ Requires Pandas and numpy libraries to be installed.
 
 References:
 
-https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
-https://www.analyticsvidhya.com/blog/2020/07/neural-networks-from-scratch-in-python-and-r/
-https://towardsdatascience.com/how-neural-networks-solve-the-xor-problem-59763136bdd7
-https://towardsdatascience.com/understanding-the-mathematics-behind-gradient-descent-dde5dc9be06e
+* https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+* https://www.analyticsvidhya.com/blog/2020/07/neural-networks-from-scratch-in-python-and-r/
+* https://towardsdatascience.com/how-neural-networks-solve-the-xor-problem-59763136bdd7
+* https://towardsdatascience.com/understanding-the-mathematics-behind-gradient-descent-dde5dc9be06e
