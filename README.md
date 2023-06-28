@@ -1,4 +1,4 @@
-# EECS 738 Project 3 - Says One Neuron To Another
+# Says One Neuron To Another
 
 Data - Contains a total of 3 files
 * Contains 2 .data files for Poker Hands data downloaded from uci machine learning repository.
